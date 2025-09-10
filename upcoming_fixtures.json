@@ -1,0 +1,90 @@
+[
+  {
+    "home_team": "Arsenal",
+    "away_team": "Nott'm Forest",
+    "date": "2025-09-13",
+    "time": "12:30",
+    "odds": {
+      "home": 2.04,
+      "draw": 4.92,
+      "away": 3.5
+    }
+  },
+  {
+    "home_team": "AFC Bournemouth",
+    "away_team": "Brighton",
+    "date": "2025-09-13",
+    "time": "15:00",
+    "odds": {
+      "home": 3.3,
+      "draw": 4.87,
+      "away": 2.07
+    }
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Sunderland",
+    "date": "2025-09-13",
+    "time": "15:00",
+    "odds": {
+      "home": 2.05,
+      "draw": 5.07,
+      "away": 3.28
+    }
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Aston Villa",
+    "date": "2025-09-13",
+    "time": "15:00",
+    "odds": {
+      "home": 2.77,
+      "draw": 5.17,
+      "away": 2.27
+    }
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Leeds United",
+    "date": "2025-09-13",
+    "time": "15:00",
+    "odds": {
+      "home": 2.12,
+      "draw": 4.94,
+      "away": 3.02
+    }
+  },
+  {
+    "home_team": "Newcastle United",
+    "away_team": "Wolves",
+    "date": "2025-09-13",
+    "time": "15:00",
+    "odds": {
+      "home": 2.15,
+      "draw": 4.78,
+      "away": 2.99
+    }
+  },
+  {
+    "home_team": "West Ham United",
+    "away_team": "Spurs",
+    "date": "2025-09-13",
+    "time": "17:30",
+    "odds": {
+      "home": 2.84,
+      "draw": 5.06,
+      "away": 2.36
+    }
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Chelsea",
+    "date": "2025-09-13",
+    "time": "20:00",
+    "odds": {
+      "home": 2.85,
+      "draw": 5.21,
+      "away": 2.27
+    }
+  }
+]

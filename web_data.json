@@ -1,0 +1,212 @@
+{
+  "next_matchweek": [
+    {
+      "home_team": "Arsenal",
+      "away_team": "Nott'm Forest",
+      "date": "2025-09-13",
+      "time": "12:30",
+      "tv": "TNT Sports",
+      "prediction": "H",
+      "confidence": 0.6547793427122824,
+      "probabilities": {
+        "home_win": 0.6547793427122824,
+        "draw": 0.2711301365336781,
+        "away_win": 0.07409052075403935
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 4.62,
+        "away": 3.99
+      }
+    },
+    {
+      "home_team": "Bournemouth",
+      "away_team": "Brighton",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "tv": "",
+      "prediction": "D",
+      "confidence": 0.7771566339687557,
+      "probabilities": {
+        "home_win": 0.13894533690999533,
+        "draw": 0.7771566339687557,
+        "away_win": 0.08389802912124905
+      },
+      "odds": {
+        "home": 3.11,
+        "draw": 4.51,
+        "away": 2.44
+      }
+    },
+    {
+      "home_team": "Crystal Palace",
+      "away_team": "Sunderland",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "tv": "",
+      "prediction": "D",
+      "confidence": 0.34237965435555195,
+      "probabilities": {
+        "home_win": 0.5834431287173572,
+        "draw": 0.34237965435555195,
+        "away_win": 0.07417721692709091
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 4.44,
+        "away": 3.76
+      }
+    },
+    {
+      "home_team": "Everton",
+      "away_team": "Aston Villa",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "tv": "",
+      "prediction": "D",
+      "confidence": 0.6880798946641935,
+      "probabilities": {
+        "home_win": 0.23498550941289295,
+        "draw": 0.6880798946641935,
+        "away_win": 0.07693459592291343
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 4.57,
+        "away": 2.59
+      }
+    },
+    {
+      "home_team": "Fulham",
+      "away_team": "Leeds",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "tv": "",
+      "prediction": "A",
+      "confidence": 0.0742437091432495,
+      "probabilities": {
+        "home_win": 0.5501190073809133,
+        "draw": 0.3756372834758371,
+        "away_win": 0.0742437091432495
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 4.43,
+        "away": 3.54
+      }
+    },
+    {
+      "home_team": "Newcastle",
+      "away_team": "Wolves",
+      "date": "2025-09-13",
+      "time": "15:00",
+      "tv": "",
+      "prediction": "H",
+      "confidence": 0.6016850357022376,
+      "probabilities": {
+        "home_win": 0.6016850357022376,
+        "draw": 0.32415826366741735,
+        "away_win": 0.07415670063034502
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 4.56,
+        "away": 3.49
+      }
+    },
+    {
+      "home_team": "West Ham",
+      "away_team": "Tottenham",
+      "date": "2025-09-13",
+      "time": "17:30",
+      "tv": "Sky Sports",
+      "prediction": "D",
+      "confidence": 0.6214702945974832,
+      "probabilities": {
+        "home_win": 0.3026583175364817,
+        "draw": 0.6214702945974832,
+        "away_win": 0.07587138786603498
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 4.64,
+        "away": 2.64
+      }
+    },
+    {
+      "home_team": "Brentford",
+      "away_team": "Chelsea",
+      "date": "2025-09-13",
+      "time": "20:00",
+      "tv": "Sky Sports",
+      "prediction": "D",
+      "confidence": 0.6989218629633782,
+      "probabilities": {
+        "home_win": 0.22374642466694553,
+        "draw": 0.6989218629633782,
+        "away_win": 0.07733171236967626
+      },
+      "odds": {
+        "home": 2.91,
+        "draw": 4.64,
+        "away": 2.54
+      }
+    },
+    {
+      "home_team": "Burnley",
+      "away_team": "Liverpool",
+      "date": "2025-09-14",
+      "time": "14:00",
+      "tv": "Sky Sports",
+      "prediction": "D",
+      "confidence": 0.7113019718066612,
+      "probabilities": {
+        "home_win": 0.07749999413669388,
+        "draw": 0.7113019718066612,
+        "away_win": 0.21119803405664486
+      },
+      "odds": {
+        "home": 3.47,
+        "draw": 4.59,
+        "away": 2.24
+      }
+    },
+    {
+      "home_team": "Man City",
+      "away_team": "Man United",
+      "date": "2025-09-14",
+      "time": "16:30",
+      "tv": "Sky Sports",
+      "prediction": "D",
+      "confidence": 0.30320361076775626,
+      "probabilities": {
+        "home_win": 0.622654596363581,
+        "draw": 0.30320361076775626,
+        "away_win": 0.07414179286866265
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 4.71,
+        "away": 3.19
+      }
+    }
+  ],
+  "future_games": [],
+  "current_table": [],
+  "final_table": [],
+  "model_info": {
+    "accuracy": "58.2%",
+    "log_loss": "0.87",
+    "brier_score": "0.21",
+    "cv_stability": "0.08",
+    "total_predictions": 10,
+    "focus": "Next Matchweek Only"
+  },
+  "last_updated": "2025-09-10 17:49:41",
+  "season_info": {
+    "season": "2025-2026",
+    "matchweek": "Next Matchweek",
+    "date_range": "September 13-14, 2025",
+    "total_games": 10
+  }
+}
