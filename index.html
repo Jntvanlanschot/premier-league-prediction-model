@@ -49,8 +49,15 @@
         }
 
         .premier-league-logo {
-            width: 80px;
-            height: 80px;
+            width: 100px;
+            height: 100px;
+        }
+
+        .premier-league-logo-left {
+            margin-right: 20px;
+        }
+
+        .premier-league-logo-right {
             margin-left: 20px;
         }
 
@@ -299,8 +306,14 @@
                 text-align: center;
             }
 
+            .premier-league-logo-left,
+            .premier-league-logo-right {
+                margin: 10px 0;
+            }
+
             .premier-league-logo {
-                margin: 20px 0 0 0;
+                width: 80px;
+                height: 80px;
             }
 
             .games-container {
@@ -320,11 +333,12 @@
 <body>
     <div class="container">
         <div class="header">
+            <img src="Premier_League_logo.webp" alt="Premier League Logo" class="premier-league-logo premier-league-logo-left">
             <div class="header-content">
                 <h1>Premier League Predictor</h1>
                 <p>AI-Powered Match Predictions with Advanced Analytics</p>
             </div>
-            <img src="Premier_League_logo.webp" alt="Premier League Logo" class="premier-league-logo">
+            <img src="Premier_League_logo.webp" alt="Premier League Logo" class="premier-league-logo premier-league-logo-right">
         </div>
 
         <div id="loading" class="loading">
