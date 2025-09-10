@@ -264,33 +264,16 @@ class NextMatchweekPredictor:
             draw_prob /= total
             away_prob /= total
             
-            # Use the highest probability for prediction, but add some randomness for close games
-            max_prob = max(home_prob, draw_prob, away_prob)
-            
-            # If probabilities are close, add some randomness
-            if max_prob < 0.65:  # If no clear favorite
-                import random
-                rand = random.random()
-                if rand < home_prob:
-                    prediction_text = 'H'
-                    confidence = home_prob
-                elif rand < home_prob + draw_prob:
-                    prediction_text = 'D'
-                    confidence = draw_prob
-                else:
-                    prediction_text = 'A'
-                    confidence = away_prob
+            # Always use the highest probability for prediction
+            if home_prob >= draw_prob and home_prob >= away_prob:
+                prediction_text = 'H'
+                confidence = home_prob
+            elif draw_prob >= away_prob:
+                prediction_text = 'D'
+                confidence = draw_prob
             else:
-                # Use the highest probability for clear favorites
-                if home_prob >= draw_prob and home_prob >= away_prob:
-                    prediction_text = 'H'
-                    confidence = home_prob
-                elif draw_prob >= away_prob:
-                    prediction_text = 'D'
-                    confidence = draw_prob
-                else:
-                    prediction_text = 'A'
-                    confidence = away_prob
+                prediction_text = 'A'
+                confidence = away_prob
             
             predictions.append({
                 'home_team': home_team,

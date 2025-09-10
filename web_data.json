@@ -44,8 +44,8 @@
       "date": "2025-09-13",
       "time": "15:00",
       "tv": "",
-      "prediction": "D",
-      "confidence": 0.34237965435555195,
+      "prediction": "H",
+      "confidence": 0.5834431287173572,
       "probabilities": {
         "home_win": 0.5834431287173572,
         "draw": 0.34237965435555195,
@@ -82,8 +82,8 @@
       "date": "2025-09-13",
       "time": "15:00",
       "tv": "",
-      "prediction": "A",
-      "confidence": 0.0742437091432495,
+      "prediction": "H",
+      "confidence": 0.5501190073809133,
       "probabilities": {
         "home_win": 0.5501190073809133,
         "draw": 0.3756372834758371,
@@ -177,8 +177,8 @@
       "date": "2025-09-14",
       "time": "16:30",
       "tv": "Sky Sports",
-      "prediction": "D",
-      "confidence": 0.30320361076775626,
+      "prediction": "H",
+      "confidence": 0.622654596363581,
       "probabilities": {
         "home_win": 0.622654596363581,
         "draw": 0.30320361076775626,
@@ -202,7 +202,7 @@
     "total_predictions": 10,
     "focus": "Next Matchweek Only"
   },
-  "last_updated": "2025-09-10 17:49:41",
+  "last_updated": "2025-09-10 18:07:33",
   "season_info": {
     "season": "2025-2026",
     "matchweek": "Next Matchweek",
